@@ -8,4 +8,4 @@ def test_fizzbuzz():
     assert fizzbuzz(15) == "FizzBuzz"
     assert fizzbuzz(2) == "2"
 
-
+# new line
