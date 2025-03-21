@@ -1,5 +1,3 @@
-# test_fizzbuzz.py
-import pytest
 from main import fizzbuzz
 
 def test_fizzbuzz():
