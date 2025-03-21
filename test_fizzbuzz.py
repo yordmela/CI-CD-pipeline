@@ -1,6 +1,6 @@
 # test_fizzbuzz.py
 import pytest
-from fizzbuzz import fizzbuzz
+from main import fizzbuzz
 
 def test_fizzbuzz():
     assert fizzbuzz(3) == "Fizz"
